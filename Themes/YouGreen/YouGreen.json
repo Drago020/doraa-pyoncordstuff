@@ -214,13 +214,6 @@
         "WHITE_500": "#FFFFFF",
         "WHITE_630": "#DEFDDE",
 		"ROLE_DEFAULT": "#1B271C"
-   },
-	"spec": 2,
-        "background": { 
-	 "blur": 0, 
-	 "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-	 "alpha": 0.9, 
-	 "color": "#144a00"
    
     },
     "plus": {
@@ -247,4 +240,10 @@
 		  "toast_image_saved": "#9CE19E",
 		  "toast_invite_sent": "#9CE19E"
             }
-    }
+    },
+    "spec": 2,
+    "background": { 
+     "blur": 0, 
+     "url": "https://images.pexels.com/photos/1687341/pexels-photo-1687341.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+     "alpha": 0.9, 
+     "color": "#144a00"
